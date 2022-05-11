@@ -1,0 +1,37 @@
+#home{
+    background-color: #343535 !important;
+    padding: 50px 100px;
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+    input{
+        width: 80%;
+        font-size: 20px;
+        padding: 10px 40px;
+    }
+}
+
+#home1{
+    background-color: #454647 !important;
+    padding: 40px 0;
+}
+.card{
+    background-color: #343535 !important;
+    height: 100px;
+    padding: 10px;
+}
+button{
+    
+    background-color: #343535 !important;
+    border: none;
+}
+h5{
+    color: orangered;
+    text-align: left;
+}
+p{
+    color: white;
+}
+.linkDiv{
+    border: 2px solid black;
+}
